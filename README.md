@@ -1,4 +1,4 @@
-ashuparekh.github.io
+harshwaghela.github.io
 ====================
 
 My Website
